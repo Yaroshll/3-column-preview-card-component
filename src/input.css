@@ -1,1 +1,16 @@
 @import "tailwindcss";
+/* In your CSS file */
+@import '@fontsource/big-shoulders/400.css'; /* Regular */
+@import '@fontsource/big-shoulders/700.css'; /* Bold */
+
+@theme {
+    --color-bright-orange: hsl(31, 77%, 52%)  ;
+    --color-dark-cyan: hsl(184, 100%, 22%)  ;
+    --color-very-dark-cyan: hsl(179, 100%, 13%)  ;
+    --color-white: hsla(0, 0%, 100%, 0.75)  ;
+    --color-very-light-gray: hsl(0, 0%, 95%)  ;
+}
+
+*{
+    font-size: 15px;
+}
