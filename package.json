@@ -15,6 +15,7 @@
     "@fontsource-variable/lexend-deca": "^5.2.6",
     "@fontsource/big-shoulders": "^5.2.1",
     "@fontsource/big-shoulders-display": "^5.2.5",
+    "@fontsource/lexend-deca": "^5.2.6",
     "@tailwindcss/cli": "^4.1.4",
     "tailwindcss": "^4.1.4"
   }
